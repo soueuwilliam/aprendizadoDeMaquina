@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-O objetivo deste repositório é apresentar os principais temas e problemáticas relacionadas ao Aprendizado de Máquina, englobando algoritmos de aprendizagem supervisionada e não supervisionada, além das etapas necessárias para suas implementações e aplicações.
+O objetivo deste repositório é acompanha a disciplina IMD1101 - Aprendizado de Máquina - 2024.1 é apresentar os principais temas e problemáticas relacionadas ao Aprendizado de Máquina aprendidos na disciplinas, englobando algoritmos de aprendizagem supervisionada e não supervisionada, além das etapas necessárias para suas implementações e aplicações.
 
 ## Conteúdo Programático
 
